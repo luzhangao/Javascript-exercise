@@ -1,0 +1,28 @@
+#markdown {
+  background-color:#FFF;
+  width: 800px;
+  height: 800px;
+}
+#markdown_label{
+  display: block;
+}
+#editor  {
+  background-color:#FFF;
+  width: 300px;
+  height: 300px;
+  display: block;
+  float: left;
+  margin:0px;
+}
+#preview  {
+  background-color:#FFF;
+  width: 300px;
+  height: 300px;
+  display: block;
+  float: right;
+  margin:0px;
+  padding: 1px;
+  border: 1px solid #4CAF50;
+}
+
+
